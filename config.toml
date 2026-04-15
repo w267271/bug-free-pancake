@@ -1,0 +1,22 @@
+[server]
+# Streamlit Cloud兼容配置
+enableCORS = false
+enableXsrfProtection = false
+headless = true
+port = 8501
+
+[browser]
+# 禁用使用统计
+gatherUsageStats = false
+
+[theme]
+# 暗色主题配置
+base = "dark"
+primaryColor = "#FF4B4B"
+backgroundColor = "#0E1117"
+secondaryBackgroundColor = "#262730"
+textColor = "#FAFAFA"
+
+[uploader]
+# 文件上传配置
+maxUploadSize = 200
