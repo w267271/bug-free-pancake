@@ -18,7 +18,7 @@ from datetime import datetime
 from typing import Dict, List, Optional
 
 # ==================== 页面配置 ====================
-st.set_page_config(
+st.set_page_config(https://bug-free-pancake.streamlit.app/
     page_title="铁律验证系统",
     page_icon="📊",
     layout="wide",
